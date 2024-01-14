@@ -1,8 +1,6 @@
 
 # Lululemon Merchandising Analysis 
-This project is done from the perspective of a Fashion Merchant working as part of the Merchandising team at Lululemon (job simulation). In preparation for the May 2022 shorts capsule launch, I analyzed and tracked the inventory 
-
-
+This project is done from the perspective of a Fashion Merchant working as part of the Merchandising team at Lululemon (job simulation). The goal of this project is to assist with the preparation that is necessary to launch and sell shorts that are part of the May 2022 capsule. 
 
 
 ## Data Sources
