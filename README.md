@@ -21,7 +21,15 @@ I then calculated sales forecasts and the full-price sell-through to assist with
 
 <img src="https://github.com/teresa-le/Lululemon_Merchandising_Analysis/blob/main/resources/On-Order%20Log.PNG">
 
+In total, there are almost 50,000 shorts in Lululemon's inventory that are worth $3.7 million in total. Online sales account for the majority of Lululemon's sales so the majority of the shorts are being allocated for the online stores (67% or $2.4 million). 
+
+The US has the largest on-order market with 48% of the shorts and $1.8 million of the inventory being allocated for the US. Canada has the second largest on-order market at 44% of units and $1.6 million being allocated for Canada. The order is pretty evenly split between the US's ecommerce store and brick-and-mortar stores whereas the majority of Canada's order is for their e-commerce store. 
+
+Finally, Europe has a small order with 7% of units worth $271k. The majority of Europe's order is for their brick-and-mortar stores (60%). 
+
 <img src="https://github.com/teresa-le/Lululemon_Merchandising_Analysis/blob/main/resources/Line%20Sheet.PNG"> 
 
 <img src="https://github.com/teresa-le/Lululemon_Merchandising_Analysis/blob/main/resources/SKU%20Count.PNG"> 
+
+In total there are 17 products with a unique SKU being sold in Canada. 
 
