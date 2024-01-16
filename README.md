@@ -3,7 +3,7 @@ This project is done from the perspective of a Fashion Merchant working as part 
 
 
 ## Data Sources
-The source of the data is from Lululemon and Forage. 
+The source of the data is Lululemon and Forage. 
 
 
 ## 🛠 Skills
