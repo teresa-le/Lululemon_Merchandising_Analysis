@@ -1,6 +1,7 @@
 # Lululemon Merchandising Analysis 
 This project is done from the perspective of a Fashion Merchant working as part of the Merchandising team at Lululemon (job simulation). The goal of this project is to assist with the preparation that is necessary to launch and sell shorts that are part of the May 2022 capsule. 
 
+<a href="https://drive.google.com/file/d/1imL4WBOczRz1hdzf_DXUvTNF0HqJ4fXP/view?usp=sharing">Link to Certificate</a> 
 
 ## Data Sources
 The source of the data is Lululemon and Forage. 
